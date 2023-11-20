@@ -6,7 +6,7 @@ Two files can be found in the src folder. One file containing functions, and ano
 
 ## Running the code
 
-`npm i` to install dependencies.s
+`npm i` to install dependencies.
 
 There is a script to run the main file using `npm run word-count`. Follow this command with the path to the file you would like to read.
 `npm run word-count input.txt` Ensure you do this from the root directory.
